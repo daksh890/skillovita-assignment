@@ -1,0 +1,70 @@
+.comment{
+    min-height: 5rem;
+    height: 100%;
+    width:80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    padding:0.5rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    margin-top: 1.5rem;
+    /* border:2px solid black; */
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    text-align: left;
+    justify-content: space-evenly;
+    width:90%;
+}
+.username{
+    display: flex;
+    flex-direction: row;
+    width:40%;
+    /* background-color: bisque; */
+    margin-bottom: 0.2rem;
+}
+.username h4{
+    font-size: 1.1rem;
+    margin-right:2rem;
+}
+.username p{
+    font-weight: 500;
+    font-size: 0.8rem;
+    margin-top: auto;
+}
+.user-img{
+    margin-right: 1rem;
+    height:30%;
+}
+
+.comment-text{
+    /* min-height: 4rem; */
+    width:100%;
+    margin-bottom: 0.7rem;
+    /* border: 2px dashed rgb(176, 156, 130) */
+}
+
+.replies{
+    margin-left: 4rem;
+    
+}
+.replies .comment{
+    width:85%;
+    margin-top: 0.5rem;
+}
+.comment-actions{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.comment-action{
+    margin-right: 1rem;
+}
+.comment-action:hover{
+    cursor: pointer;
+}
