@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skillovita-assignment/static/css/main.4beb5294.css",
+    "main.js": "/skillovita-assignment/static/js/main.313fcde1.js",
+    "static/js/787.430a7491.chunk.js": "/skillovita-assignment/static/js/787.430a7491.chunk.js",
+    "index.html": "/skillovita-assignment/index.html",
+    "main.4beb5294.css.map": "/skillovita-assignment/static/css/main.4beb5294.css.map",
+    "main.313fcde1.js.map": "/skillovita-assignment/static/js/main.313fcde1.js.map",
+    "787.430a7491.chunk.js.map": "/skillovita-assignment/static/js/787.430a7491.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4beb5294.css",
+    "static/js/main.313fcde1.js"
+  ]
+}
