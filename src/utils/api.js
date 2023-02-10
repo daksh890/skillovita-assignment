@@ -3,7 +3,7 @@ export const getComments = async () => {
     {
       id: "1",
       body: "First comment",
-      username: "Jack",
+      username: "Iron Man",
       userId: "1",
       parentId: null,
       createdAt: "2021-08-16T23:00:33.010+02:00",
@@ -19,7 +19,7 @@ export const getComments = async () => {
     {
       id: "3",
       body: "First comment first child",
-      username: "John",
+      username: "Neon Man",
       userId: "2",
       parentId: "1",
       createdAt: "2021-08-16T23:00:33.010+02:00",
@@ -27,7 +27,7 @@ export const getComments = async () => {
     {
       id: "4",
       body: "Second comment second child",
-      username: "John",
+      username: "Kailash Kher",
       userId: "2",
       parentId: "2",
       createdAt: "2021-08-16T23:00:33.010+02:00",
@@ -43,7 +43,7 @@ export const getComments = async () => {
     {
       id: "6",
       body: "This is an example comment that is spread across multiple lines to check the design of the UI.",
-      username: "John",
+      username: "Virat",
       userId: "2",
       parentId: null,
       createdAt: "2021-08-16T23:00:33.010+02:00",
@@ -51,7 +51,7 @@ export const getComments = async () => {
     {
       id: "7",
       body: "Lorem Lipsum flying fox.",
-      username: "John",
+      username: "Chirag",
       userId: "2",
       parentId: null,
       createdAt: "2021-08-16T23:00:33.010+02:00",
